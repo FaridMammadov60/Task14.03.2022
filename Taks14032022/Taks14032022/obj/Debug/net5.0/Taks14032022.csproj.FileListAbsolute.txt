@@ -1,0 +1,16 @@
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\bin\Debug\net5.0\Taks14032022.exe
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\bin\Debug\net5.0\Taks14032022.deps.json
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\bin\Debug\net5.0\Taks14032022.runtimeconfig.json
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\bin\Debug\net5.0\Taks14032022.runtimeconfig.dev.json
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\bin\Debug\net5.0\Taks14032022.dll
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\bin\Debug\net5.0\Taks14032022.pdb
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.csproj.AssemblyReference.cache
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.AssemblyInfo.cs
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.dll
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\refint\Taks14032022.dll
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.pdb
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\Taks14032022.genruntimeconfig.cache
+C:\Users\farid\Desktop\New folder\Task14.03.2022\Taks14032022\Taks14032022\obj\Debug\net5.0\ref\Taks14032022.dll
